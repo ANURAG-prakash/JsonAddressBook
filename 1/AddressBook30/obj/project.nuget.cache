@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXm6aQRTLBFgHQ8mdH1/t5uEFTpR2PW8JKEI403W9NStWsRneL2hE+a+96IrMXJB0I3MdBctFf5fs2QTykzRGA==",
+  "success": true,
+  "projectFilePath": "D:\\AddressBook30\\AddressBook30\\AddressBook30.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\praka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
